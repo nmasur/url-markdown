@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mozilla/readability": "^0.4.1",
+    "got": "^11.8.3",
+    "jsdom": "^18.1.1",
+    "turndown": "^7.1.1"
+  }
+}
