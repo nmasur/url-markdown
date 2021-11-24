@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const got = require('got');
 const { JSDOM } = require("jsdom");
 const { Readability } = require('@mozilla/readability');
