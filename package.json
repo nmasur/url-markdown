@@ -4,5 +4,26 @@
     "got": "^11.8.3",
     "jsdom": "^18.1.1",
     "turndown": "^7.1.1"
-  }
+  },
+  "name": "url-markdown",
+  "version": "0.1.0",
+  "description": "Get readable markdown content from a URL.",
+  "main": "url-markdown.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmasur/url-markdown.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmasur/url-markdown/issues"
+  },
+  "homepage": "https://github.com/nmasur/url-markdown#readme"
 }
